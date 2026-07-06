@@ -1,82 +1,155 @@
-Hi, I'm Fabeena KS! 👋
+# Hi, I'm Fabeena KS! 👋
 
+## 👩‍💻 About Me
 
+I am an ISTQB CTFL Certified Software QA Engineer with 6 months of professional experience as a QA Analyst. I have hands-on experience in Manual Testing, Automation Testing, Defect Tracking, and Software Quality Assurance.
 
-💻 About Me
+I also have 3 years of experience as a Computer Science Teacher, where I taught Computer Fundamentals, Java Basics, MS Office Suite, SQL, HTML.
 
-I'm a Software Testing professional with expertise in both Manual and Automation Testing. With a strong foundation in Java, Selenium, TestNG, JIRA, and JMeter, I am passionate about ensuring software quality through meticulous testing processes. I also have a background in Computer Science teaching, making me adept at explaining complex technical concepts effectively.
-
-
----
-
-🔍 Skills & Technologies
-
-🛠 Software Testing & Quality Assurance
-
-✅ Manual Testing (Test Planning, Test Cases, Defect Tracking)
-
-✅ Automation Testing (Selenium WebDriver, TestNG, Cucumber, Maven)
-
-✅ Performance Testing (JMeter)
-
-✅ Defect Management & Bug Tracking (JIRA)
-
-✅ Version Control & Collaboration (GitHub, Agile)
-
-✅ Database Management (SQL, MySQL)
-
-
-💻 Programming & Development
-
-💡 Java, Python, C, C++, HTML, CSS, JavaScript
-
-
-⚙️ Other Tools
-
-📊 Microsoft Office Suite, OpenOffice Suite, Tally
-
-
+I am passionate about delivering high-quality software and continuously improving my testing skills.
 
 ---
 
-🚀 Projects
+## 🛠️ Skills & Technologies
 
-📌 ICTAK Website Testing
+### Software Testing
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Sanity Testing
+- Integration Testing
+- System Testing
+- Defect Reporting
+- Test Case Design
+- Test Planning
 
-📷 
+### Automation Testing
+- Selenium WebDriver
+- Java
+- TestNG
+- Maven
+- Cucumber (Basics)
 
-Technologies: Java, Selenium, TestNG, JMeter, JIRA, GitHub
+### Performance Testing
+- Apache JMeter
 
-Conducted end-to-end testing, automated test scenarios, executed performance testing, and tracked defects.
+### Bug Tracking & Project Management
+- JIRA
+- Agile Scrum
+- Click Up
+- MeetVolley
 
-Used GitHub for version control and collaborated using JIRA.
+### Database
+- SQL
+- MySQL
 
+### Version Control
 
-📌 OrangeHRM Automation Testing
+- GitHub
 
-📷 
-
-Technologies: Maven, TestNG, Properties File
-
-Developed a robust automation framework ensuring cross-browser compatibility.
-
-
-📌 Student Dropout Prediction (MCA Project)
-
-📷 
-
-Technologies: Python, MySQL
-
-Built a predictive model using C4.5 and ID3 decision tree algorithms to assess student dropout probabilities.
-
-
+### Programming
+- Java
+  
+- HTML
+- CSS
+- JavaScript
+  
 
 ---
 
-📫 Connect with Me
+## 💼 Professional Experience
 
+### QA Analyst (6 Months)
 
+- Executed Manual Test Cases
+- Performed Functional Testing
+- Conducted Regression & Smoke Testing
+- Logged and Tracked Defects using JIRA
+- Collaborated with Developers and Business Team
+- Participated in Agile Scrum Meetings
+- Verified Bug Fixes and Retesting
 
+---
 
+## 📂 Projects
 
-💡 I am always eager to learn new technologies and contribute to innovative projects. Let's collaborate! 🚀
+### ICTAK Website Testing
+
+*Technologies:*
+Java, Selenium, TestNG, Maven, JMeter, JIRA, GitHub
+
+- Prepared Test Plan
+- Designed Test Cases
+- Automated Functional Test Cases
+- Performed Performance Testing using JMeter
+- Managed Defects using JIRA
+
+---
+
+### OrangeHRM Automation Testing
+
+*Technologies:*
+Java, Selenium WebDriver, Maven, TestNG
+
+- Automated Login Module
+- Cross Browser Testing
+- Properties File Configuration
+- TestNG Framework
+
+---
+
+### Student Dropout Prediction (MCA Project)
+
+*Technologies:*
+Python, MySQL, ID3, C4.5
+
+- Developed a prediction system using Decision Tree Algorithms.
+- Built as part of MCA Academic Project.
+
+---
+
+## 🎓 Certifications
+
+- ✅ ISTQB CTFL Certified (2026)
+- ✅ Software Testing Certification – ICT Academy
+- ✅ Master of Computer Applications (MCA)
+- ✅ Bachelor of Science in Computer Science
+
+---
+
+## 📚 Teaching Experience
+
+Computer Science Teacher (3 Years)
+
+Subjects:
+- Computer Fundamentals
+- Java Basics
+- MS Office Suite
+- SQL
+- HTML
+  
+- OpenOffice Suite
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Selenium Framework
+- API Testing
+- SQL Optimization
+- Real-Time QA Practices
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn: https://www.linkedin.com/in/fabeena-ks-234699314
+
+📧 Email: ksfabeenawork@gmail.com
+
+🔗 GitHub: https://github.com/Fabeena-KS
+
+---
+
+⭐ Thank you for visiting my GitHub Profile!
